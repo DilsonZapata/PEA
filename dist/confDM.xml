@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuracion>
+  <conf>
+    <email>default@gmail.com</email>
+    <pass>default</pass>
+    <print>default</print>
+    <deleF>N</deleF>
+  </conf>
+</configuracion>
